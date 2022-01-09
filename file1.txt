@@ -1,0 +1,3 @@
+Hello, this is the first file created in the tutorial-repo.
+
+This file will be first added to the staging area, then committed to the local master and finally "published" to remote master 
